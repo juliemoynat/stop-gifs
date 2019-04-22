@@ -1,6 +1,6 @@
-#Bookmarklet to stop all GIFs in a webpage
+# Bookmarklet to stop all GIFs in a webpage
 
-Minified JavaScript code taken from the ["Stopping GIF Animation Programmatically" Stackoverflow subject](https://stackoverflow.com/questions/3688460/stopping-gif-animation-programmatically#answer-4276742)
+Minified JavaScript code taken from the ["Stopping GIF Animation Programmatically" Stack Overflow subject](https://stackoverflow.com/questions/3688460/stopping-gif-animation-programmatically#answer-4276742)
 
 1. Copy this code and create a new empty bookmark in your web browser.
 2. Paste this code in the "address" field.
